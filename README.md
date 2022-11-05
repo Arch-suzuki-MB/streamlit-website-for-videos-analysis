@@ -1,2 +1,2 @@
 # streamlitWeb
-hello the web is the final application 
+hello the web.py is the final application 
