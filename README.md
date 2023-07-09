@@ -3,8 +3,13 @@ the project is the one of the project for the videos analytics module in witch w
 
 ### The App contain the following methods: ### 
    **Difference d'image** : detect the moving objects
+   
    **Dérivation temporelle** : detect the moving objects
+   
    **filtre median** : detect the moving objects
+   
    **filtre moyen** : detect the moving objects
+   
    **moyenne glissante** : estimate the static or stationary background in a video sequence
-    **Gaussian Mixture Model GMM** : detect the moving objects
+   
+   **Gaussian Mixture Model GMM** : detect the moving objects
